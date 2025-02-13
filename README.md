@@ -36,8 +36,8 @@ To set up the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-analysis.git
-   cd ecommerce-analysis
+   git clone https://github.com/your-username/retail-analysis-project.git
+   cd retail-analysis-project
    ```
 
 2. **Install the required libraries:**
